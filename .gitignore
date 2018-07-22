@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+**/.vs/**
+*.suo
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+*.ipch
+*.bak
