@@ -39,3 +39,8 @@
 *.db-wal
 *.ipch
 *.bak
+*.vcxproj.filters
+*.vcxproj.user
+
+**/Debug/**
+**/Release/**
